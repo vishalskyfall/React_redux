@@ -1,0 +1,14 @@
+.actions{
+    opacity: 0;
+}
+
+tr:hover .actions{
+    opacity: 1;
+}
+
+tbody td a{
+    color: rgba(180, 204, 43, 0.856);
+}
+tbody td a:hover{
+    color: rgb(11, 245, 186);
+}
